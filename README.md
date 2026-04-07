@@ -30,7 +30,4 @@ This project analyzes retail and warehouse sales data from 2017 to 2020 using Ta
 
 ## Tableau Link
 
-https://public.tableau.com/app/profile/jesse.morales2105/viz/SalesPerformanceDashboard_17751607203510/Dashboard1?publish=yes 
-
-
-Add your Tableau Public link here
+https://public.tableau.com/app/profile/jesse.morales2105/viz/SalesPerformanceDashboard_17751607203510/Dashboard1?publish=yes
